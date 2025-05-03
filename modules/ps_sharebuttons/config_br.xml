@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_sharebuttons</name>
+    <displayName><![CDATA[Bot&otilde;es de compartilhamento nas m&iacute;dias sociais]]></displayName>
+    <version><![CDATA[2.1.1]]></version>
+    <description><![CDATA[Instagram, YouTube, engaje sua comunidade com bot&otilde;es de compartilhamento nas p&aacute;ginas de produtos.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>gsitemap</name>
+    <displayName><![CDATA[Mapa do site do Google]]></displayName>
+    <version><![CDATA[4.4.0]]></version>
+    <description><![CDATA[Gere seu arquivo de mapa do site do Google e mantenha-o atualizado com este m&oacute;dulo.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[checkout]]></tab>
+	<confirmUninstall><![CDATA[Tem a certeza que quer desinstalar este módulo?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

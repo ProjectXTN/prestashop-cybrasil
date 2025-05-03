@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_facetedsearch</name>
+    <displayName><![CDATA[Pesquisa Facetada]]></displayName>
+    <version><![CDATA[3.16.0]]></version>
+    <description><![CDATA[Filtre seu cat&aacute;logo para ajudar seus visitantes a entenderem a &aacute;rvore de categorias e navegar por sua loja com facilidade.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

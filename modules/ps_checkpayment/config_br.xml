@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_checkpayment</name>
+    <displayName><![CDATA[Cheque]]></displayName>
+    <version><![CDATA[2.1.0]]></version>
+    <description><![CDATA[Mostra um bloco com detalhes de contato para facilitar para os clientes pagarem com cheque em sua loja.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Tem certeza que deseja apagar estes detalhes do pagamento?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>
