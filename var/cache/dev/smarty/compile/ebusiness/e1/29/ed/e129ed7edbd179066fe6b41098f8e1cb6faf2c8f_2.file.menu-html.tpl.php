@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-05-03 18:54:46
+/* Smarty version 4.3.4, created on 2025-05-04 00:20:01
   from '/var/www/html/themes/ebusiness/modules/ets_megamenu/views/templates/hook/menu-html.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_68168296d6ac91_81685465',
+  'unifunc' => 'content_6816ced1daaab8_70562678',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_68168296d6ac91_81685465 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6816ced1daaab8_70562678 (Smarty_Internal_Template $_smarty_tpl) {
 if ((isset($_smarty_tpl->tpl_vars['menus']->value)) && $_smarty_tpl->tpl_vars['menus']->value) {?>
     <ul class="mm_menus_ul">
         <li class="close_menu">

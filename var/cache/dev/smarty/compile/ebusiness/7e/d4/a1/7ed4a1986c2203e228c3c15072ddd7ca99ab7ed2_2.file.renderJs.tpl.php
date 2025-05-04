@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-05-03 18:54:46
+/* Smarty version 4.3.4, created on 2025-05-04 00:20:01
   from '/var/www/html/modules/ybc_productimagehover/views/templates/hook/renderJs.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_68168296812927_47354384',
+  'unifunc' => 'content_6816ced1966330_35442471',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_68168296812927_47354384 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6816ced1966330_35442471 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
  type="text/javascript">
  var baseAjax ='<?php if ((isset($_smarty_tpl->tpl_vars['_PI_VER_17_']->value)) && $_smarty_tpl->tpl_vars['_PI_VER_17_']->value) {

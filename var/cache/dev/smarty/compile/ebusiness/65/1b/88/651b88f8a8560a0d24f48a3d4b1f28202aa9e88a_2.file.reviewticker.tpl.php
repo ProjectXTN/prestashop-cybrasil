@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-05-03 18:54:46
+/* Smarty version 4.3.4, created on 2025-05-04 00:20:01
   from '/var/www/html/modules/ets_reviewticker/views/templates/hook/reviewticker.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_6816829689e412_62032172',
+  'unifunc' => 'content_6816ced1aa0233_26044826',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6816829689e412_62032172 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6816ced1aa0233_26044826 (Smarty_Internal_Template $_smarty_tpl) {
 if ((isset($_smarty_tpl->tpl_vars['assigns']->value)) && $_smarty_tpl->tpl_vars['assigns']->value) {
 echo '<script'; ?>
  type="text/javascript">

@@ -12,7 +12,7 @@ use Twig\Sandbox\SecurityNotAllowedFunctionError;
 use Twig\Source;
 use Twig\Template;
 
-/* @Twig/form_max_length.html.twig */
+/* @PrestaShop/Admin/TwigTemplateForm/form_max_length.html.twig */
 class __TwigTemplate_654091eca4fd11235d1147becd0d0a81 extends Template
 {
     private $source;
@@ -34,10 +34,10 @@ class __TwigTemplate_654091eca4fd11235d1147becd0d0a81 extends Template
     {
         $macros = $this->macros;
         $__internal_5a27a8ba21ca79b61932376b2fa922d2 = $this->extensions["Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension"];
-        $__internal_5a27a8ba21ca79b61932376b2fa922d2->enter($__internal_5a27a8ba21ca79b61932376b2fa922d2_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "template", "@Twig/form_max_length.html.twig"));
+        $__internal_5a27a8ba21ca79b61932376b2fa922d2->enter($__internal_5a27a8ba21ca79b61932376b2fa922d2_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "template", "@PrestaShop/Admin/TwigTemplateForm/form_max_length.html.twig"));
 
         $__internal_6f47bbe9983af81f1e7450e9a3e3768f = $this->extensions["Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension"];
-        $__internal_6f47bbe9983af81f1e7450e9a3e3768f->enter($__internal_6f47bbe9983af81f1e7450e9a3e3768f_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "template", "@Twig/form_max_length.html.twig"));
+        $__internal_6f47bbe9983af81f1e7450e9a3e3768f->enter($__internal_6f47bbe9983af81f1e7450e9a3e3768f_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "template", "@PrestaShop/Admin/TwigTemplateForm/form_max_length.html.twig"));
 
         // line 25
         if (twig_get_attribute($this->env, $this->source, ($context["attr"] ?? null), "counter", [], "any", true, true, false, 25)) {
@@ -83,7 +83,7 @@ class __TwigTemplate_654091eca4fd11235d1147becd0d0a81 extends Template
 
     public function getTemplateName()
     {
-        return "@Twig/form_max_length.html.twig";
+        return "@PrestaShop/Admin/TwigTemplateForm/form_max_length.html.twig";
     }
 
     public function isTraitable()
@@ -144,6 +144,6 @@ class __TwigTemplate_654091eca4fd11235d1147becd0d0a81 extends Template
       </em>
   </small>
 {% endif %}
-", "@Twig/form_max_length.html.twig", "/var/www/html/src/PrestaShopBundle/Resources/views/Admin/TwigTemplateForm/form_max_length.html.twig");
+", "@PrestaShop/Admin/TwigTemplateForm/form_max_length.html.twig", "/var/www/html/src/PrestaShopBundle/Resources/views/Admin/TwigTemplateForm/form_max_length.html.twig");
     }
 }

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-05-03 18:54:47
+/* Smarty version 4.3.4, created on 2025-05-04 00:20:02
   from 'module:ps_emailsubscriptionviewstemplateshookps_emailsubscription.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_68168297085978_28831793',
+  'unifunc' => 'content_6816ced22c4a99_06405045',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_68168297085978_28831793 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6816ced22c4a99_06405045 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin /var/www/html/themes/ebusiness/modules/ps_emailsubscription/views/templates/hook/ps_emailsubscription.tpl -->
 <div class="block_newsletter links col-lg-3 col-md-3 col-sm-12">
     <div class="title clearfix hidden-md-up" data-target="#footer_nlt" data-toggle="collapse">

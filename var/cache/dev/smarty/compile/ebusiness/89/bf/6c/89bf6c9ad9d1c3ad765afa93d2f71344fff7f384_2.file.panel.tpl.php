@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-05-03 18:54:47
+/* Smarty version 4.3.4, created on 2025-05-04 00:20:02
   from '/var/www/html/themes/ebusiness/modules/ybc_themeconfig/views/templates/hook/panel.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_681682970a1838_78720039',
+  'unifunc' => 'content_6816ced22f1e39_38700209',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_681682970a1838_78720039 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6816ced22f1e39_38700209 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['tc_display_panel']->value) {?>
 <div class="ybc-theme-panel closed">
     <div class="ybc-theme-panel-medium">

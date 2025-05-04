@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-05-03 19:21:40
+/* Smarty version 4.3.4, created on 2025-05-04 00:20:01
   from 'module:ps_shoppingcartps_shoppingcartproductline.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_681688e4cf32c4_88511250',
+  'unifunc' => 'content_6816ced1d33534_74186968',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_681688e4cf32c4_88511250 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6816ced1d33534_74186968 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'/var/www/html/vendor/smarty/smarty/libs/plugins/modifier.count.php','function'=>'smarty_modifier_count',),));
 ?>
 <!-- begin /var/www/html/themes/ebusiness/modules/ps_shoppingcart/ps_shoppingcart-product-line.tpl -->

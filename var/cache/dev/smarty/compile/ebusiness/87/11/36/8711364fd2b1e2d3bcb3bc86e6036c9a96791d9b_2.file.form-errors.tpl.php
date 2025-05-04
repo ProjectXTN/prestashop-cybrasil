@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-05-03 19:21:52
+/* Smarty version 4.3.4, created on 2025-05-04 00:20:01
   from '/var/www/html/themes/ebusiness/templates/_partials/form-errors.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_681688f04389c3_48537600',
+  'unifunc' => 'content_6816ced1f2e7d5_94859230',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_681688f04389c3_48537600 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6816ced1f2e7d5_94859230 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'/var/www/html/vendor/smarty/smarty/libs/plugins/modifier.count.php','function'=>'smarty_modifier_count',),));
 if (smarty_modifier_count($_smarty_tpl->tpl_vars['errors']->value)) {?>
   <div class="help-block">

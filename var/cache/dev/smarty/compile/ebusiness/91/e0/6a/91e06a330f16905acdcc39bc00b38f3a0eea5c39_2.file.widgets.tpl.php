@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-05-03 18:54:46
+/* Smarty version 4.3.4, created on 2025-05-04 00:20:01
   from '/var/www/html/themes/ebusiness/modules/ybc_widget/views/templates/hook/widgets.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_68168296b3dce5_62638905',
+  'unifunc' => 'content_6816ced1c8e340_16764279',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_68168296b3dce5_62638905 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6816ced1c8e340_16764279 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['widgets']->value) {?>
     <?php if ($_smarty_tpl->tpl_vars['widget_hook']->value == "display-top-column") {?>
         <?php if ($_smarty_tpl->tpl_vars['page_name']->value == "index") {?>

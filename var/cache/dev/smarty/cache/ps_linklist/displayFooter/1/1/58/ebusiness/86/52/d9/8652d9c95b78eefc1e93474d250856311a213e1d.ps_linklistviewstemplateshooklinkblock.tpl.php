@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 4.3.4, created on 2025-05-03 18:54:47
+/* Smarty version 4.3.4, created on 2025-05-04 00:20:02
   from 'module:ps_linklistviewstemplateshooklinkblock.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.3.4',
-  'unifunc' => 'content_68168297075069_73962559',
+  'unifunc' => 'content_6816ced22a5992_28923357',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,12 +18,12 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_68168297075069_73962559 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6816ced22a5992_28923357 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin /var/www/html/themes/ebusiness/modules/ps_linklist/views/templates/hook/linkblock.tpl --><div class="links">
   <div class="row">
       <div class="wrapper">
       <h3 class="h3 hidden-sm-down">Produtos</h3>
-            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_16004" data-toggle="collapse">
+            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_57894" data-toggle="collapse">
         <span class="h3">Produtos</span>
         <span class="pull-xs-right">
           <span class="navbar-toggler collapse-icons">
@@ -32,7 +32,7 @@ function content_68168297075069_73962559 (Smarty_Internal_Template $_smarty_tpl)
           </span>
         </span>
       </div>
-      <ul id="footer_sub_menu_16004" class="collapse">
+      <ul id="footer_sub_menu_57894" class="collapse">
                   <li>
             <a id="link-product-page-prices-drop-1" class="cms-page-link" href="http://116.203.138.177/promocoes" title="Nossos produtos especiais"> Promoção
             </a>
@@ -49,7 +49,7 @@ function content_68168297075069_73962559 (Smarty_Internal_Template $_smarty_tpl)
     </div>
       <div class="wrapper">
       <h3 class="h3 hidden-sm-down">Nossa empresa</h3>
-            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_83" data-toggle="collapse">
+            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_97118" data-toggle="collapse">
         <span class="h3">Nossa empresa</span>
         <span class="pull-xs-right">
           <span class="navbar-toggler collapse-icons">
@@ -58,7 +58,7 @@ function content_68168297075069_73962559 (Smarty_Internal_Template $_smarty_tpl)
           </span>
         </span>
       </div>
-      <ul id="footer_sub_menu_83" class="collapse">
+      <ul id="footer_sub_menu_97118" class="collapse">
                   <li>
             <a id="link-cms-page-1-2" class="cms-page-link" href="http://116.203.138.177/content/1-entrega" title="Nossos termos e condições de entrega"> Entrega
             </a>

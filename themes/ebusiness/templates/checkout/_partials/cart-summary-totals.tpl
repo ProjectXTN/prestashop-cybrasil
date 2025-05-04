@@ -32,10 +32,12 @@
   {/block}
 
   {block name='cart_summary_tax'}
-    <div class="cart-summary-line">
-      <span class="label sub">{$cart.subtotals.tax.label}</span>
-      <span class="value sub">{$cart.subtotals.tax.value}</span>
-    </div>
+    {if isset($cart.subtotals.tax) && $cart.subtotals.tax}
+      <div class="cart-summary-line">
+        <span class="label sub">{$cart.subtotals.tax.label}</span>
+        <span class="value sub">{$cart.subtotals.tax.value}</span>
+      </div>
+    {/if}
   {/block}
 
 </div>
